@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4aMwIIFqM7Kaftl7VhYMSWCGmy+nFW5J1bPfTpFBQytqdeKEQJ4Mq+gwdb14upICdYww7A4fC33IAh2lJuvhQ==",
+  "dgSpecHash": "bjIye7PTJBLfL8WaCFU0XgbXccB2XuUD4Bv6R+NvtU5sWsbGGCmap3Lt+5e0rAs79jbqJfKhxDeou55JvtKhTw==",
   "success": true,
-  "projectFilePath": "/home/angi/code/stock_compare/api/StockCompareApi.csproj",
+  "projectFilePath": "/home/angi/code/stock_compare/API/StockCompareApi.csproj",
   "expectedPackageFiles": [
     "/home/angi/.nuget/packages/microsoft.aspnetcore.openapi/8.0.5/microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
     "/home/angi/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

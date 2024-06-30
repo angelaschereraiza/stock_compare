@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockCompareApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99e339e02a48d8c0e0970a9021ac5a44f84ff9f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75a610db1fb66118aa90305dfe9f6b102e9ae822")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockCompareApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockCompareApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

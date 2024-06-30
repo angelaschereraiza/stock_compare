@@ -15,7 +15,7 @@ export interface Stock {
   providedIn: 'root'
 })
 export class StockService {
-  private apiUrl = 'http://localhost:5000/api/stock';
+  private apiUrl = 'http://localhost:5257/api/stock';
 
   constructor(private http: HttpClient) { }
 

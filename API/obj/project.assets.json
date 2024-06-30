@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/angi/code/stock_compare/api/StockCompareApi.csproj",
+      "projectUniqueName": "/home/angi/code/stock_compare/API/StockCompareApi.csproj",
       "projectName": "StockCompareApi",
-      "projectPath": "/home/angi/code/stock_compare/api/StockCompareApi.csproj",
+      "projectPath": "/home/angi/code/stock_compare/API/StockCompareApi.csproj",
       "packagesPath": "/home/angi/.nuget/packages/",
-      "outputPath": "/home/angi/code/stock_compare/api/obj/",
+      "outputPath": "/home/angi/code/stock_compare/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/angi/.nuget/NuGet/NuGet.Config"
