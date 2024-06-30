@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DKRS1yHUc4FRIPWPpAZVb3Q401/2/IaehKjXhi6/bO4=",
+  "Source": "StockCompareApi",
+  "BasePath": "_content/StockCompareApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
